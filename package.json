@@ -1,0 +1,23 @@
+{
+  "name": "todo-challenge",
+  "version": "1.0.0",
+  "description": "This project is designed to be a test of all the skills you've learned up to this point. There will only be a list of requirements and no other instructions for this project. Your job will be to create an application that fulfills the requirements and specifications.",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AodhanHayter/todo-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AodhanHayter/todo-challenge/issues"
+  },
+  "homepage": "https://github.com/AodhanHayter/todo-challenge#readme"
+}

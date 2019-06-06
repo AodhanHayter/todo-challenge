@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Clean Kitchen",
+      "status": "todo"
+    },
+    {
+      "id": 2,
+      "text": "Teach JSON Lessons",
+      "status": "inProgress"
+    },
+    {
+      "id": 3,
+      "text": "Teach AJAX",
+      "status": "todo"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6,
+      "text": "New Item",
+      "status": "todo"
+    },
+    {
+      "text": "Another Item",
+      "status": "todo",
+      "id": 7
+    }
+  ]
+}
